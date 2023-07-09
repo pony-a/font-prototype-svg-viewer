@@ -10,6 +10,7 @@ cd font-prototype-svg-viewer
 npm install
 ```
 `public/font_svg` フォルダに、以下のようなファイル名で100px*100pxサイズのSVGファイルの文字を配置してください。
+
 `{グリフ名（1文字で）}_0.svg`
 
 ### 使い方
