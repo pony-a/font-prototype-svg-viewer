@@ -1,0 +1,9 @@
+{
+  "short_name": "FontPrototypeSVGViewer",
+  "name": "Prototyping tool for font production.",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

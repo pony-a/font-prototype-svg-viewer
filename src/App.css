@@ -1,0 +1,32 @@
+/* Appコンポーネントのスタイル */
+.container {
+  text-align: center;
+}
+
+
+/* テキスト入力フォームのスタイル */
+input {
+  margin: 12px auto;
+  margin-bottom: 360px;
+  width: 600px;
+  height: 40px;
+  font-size: 16px; 
+}
+
+/* ボタンのスタイル */
+button {
+  background-color: #ccc;
+  color: #fff;
+  margin: 0 270px;
+  padding: 4px ;
+  border: none;
+  border-radius: 32px;
+  font-size: 20px; 
+  width: 32px;
+  display: inline-block;
+}
+
+/* ボタンのホバーエフェクト */
+button:hover {
+  opacity: 0.6;
+}
