@@ -10,7 +10,7 @@ input欄に文字を打つとその下に対応する文字列が繰り返し並
 
 ### 準備
 ```
-cd FontPrototypeSVGViewer
+cd font-prototype-svg-viewer
 npm install
 ```
 
